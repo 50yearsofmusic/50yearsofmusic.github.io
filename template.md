@@ -1,8 +1,9 @@
 
 # Otsikko
 
-Teksti
+Teksti. **Lihavoitu teksti**
 
+Kuva
 
-
-* (linkki)[http://www.bbc.co.uk]
+* [http://www.bbc.co.uk](http://www.bbc.co.uk)
+* toinen juttu
