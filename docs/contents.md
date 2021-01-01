@@ -1,3 +1,6 @@
+layout: page
+title: "Contents"
+permalink: https://github.com/50yearsofmusic/50yearsofmusic.github.io/tree/gh-pages/docs/contents
 
 # Contents - Sisällys
 
