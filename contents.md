@@ -1,6 +1,9 @@
+layout: page
+title: "1971"
+permalink: https://octocat.github.io/contents
+
 
 # Contents - Sisällys
-
 
 
 ### 1970
