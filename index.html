@@ -1,8 +1,20 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: Home
 ---
+<h1>50 Years of Music</h1>
 
-Jotain omaa tahan
+Tervetuloa 50 vuotta musiikkia sivulle, jossa koostamme...
+
+Welcome to the 50 years of music
+
+<h3> Contents / Sisallys</h3> 
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
